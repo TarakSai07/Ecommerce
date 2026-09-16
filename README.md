@@ -21,3 +21,10 @@ FAQ section
 Demo Logout functionality
 Cart and orders saved using localStorage
 Mobile, tablet, and desktop responsive design
+
+🛠️ Technologies Used
+HTML5
+CSS3
+Bootstrap 5
+JavaScript
+Browser Local Storage
