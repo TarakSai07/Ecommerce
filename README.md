@@ -54,3 +54,16 @@ The website is designed to work on:
 📲 Tablet
 
 Bootstrap's responsive grid and utility classes are used to create the responsive layout.
+
+🎯 Project Purpose
+
+This project was created to practice:
+
+HTML page structure
+Bootstrap components
+Responsive web design
+CSS styling
+JavaScript DOM manipulation
+Event handling
+Local Storage
+Basic E-Commerce functionality
