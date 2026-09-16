@@ -28,3 +28,9 @@ CSS3
 Bootstrap 5
 JavaScript
 Browser Local Storage
+
+📂 Project Structure
+E-Commerce-Website/
+└── index.html
+
+The project is currently implemented as a single HTML file containing the HTML, CSS, and JavaScript code.
