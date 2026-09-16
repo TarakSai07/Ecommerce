@@ -34,3 +34,13 @@ E-Commerce-Website/
 └── index.html
 
 The project is currently implemented as a single HTML file containing the HTML, CSS, and JavaScript code.
+
+💾 Local Storage
+
+The project uses browser localStorage to store:
+
+Cart items
+Product quantities
+Order history
+
+This allows cart and order information to remain available even after refreshing the page.
