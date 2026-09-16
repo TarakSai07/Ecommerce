@@ -67,3 +67,9 @@ JavaScript DOM manipulation
 Event handling
 Local Storage
 Basic E-Commerce functionality
+
+▶️ How to Run
+Download or clone the repository.
+Open the project folder.
+Open index.html in any modern web browser.
+Start browsing the products and testing the cart functionality.
