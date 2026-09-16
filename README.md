@@ -44,3 +44,13 @@ Product quantities
 Order history
 
 This allows cart and order information to remain available even after refreshing the page.
+
+📱 Responsive Design
+
+The website is designed to work on:
+
+💻 Desktop
+📱 Mobile
+📲 Tablet
+
+Bootstrap's responsive grid and utility classes are used to create the responsive layout.
