@@ -73,3 +73,15 @@ Download or clone the repository.
 Open the project folder.
 Open index.html in any modern web browser.
 Start browsing the products and testing the cart functionality.
+
+⚠️ Note
+
+This is a frontend-only project.
+
+The checkout, orders, and logout features are simulated using JavaScript and localStorage. It does not include:
+
+Real payment processing
+Backend server
+Database
+Real user authentication
+Production order processing
